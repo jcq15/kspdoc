@@ -15,4 +15,4 @@
 
 ## delta v 表
 
-![delta v map](image/deltav.webp)
+![delta v map](images/deltav.jpg)
